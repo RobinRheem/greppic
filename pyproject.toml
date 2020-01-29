@@ -13,6 +13,7 @@ SQLAlchemy = "^1.3.13"
 mysqlclient = "^1.4.6"
 
 [tool.poetry.dev-dependencies]
+ipython = "^7.11.1"
 
 [build-system]
 requires = ["poetry>=0.12"]
